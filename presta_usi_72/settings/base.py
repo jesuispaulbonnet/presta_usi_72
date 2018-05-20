@@ -148,6 +148,6 @@ GEO_WIDGET_ZOOM = 12
 MJ_APIKEY_PUBLIC = '8f46becdbc1059642c30afee8da729ec'
 MJ_APIKEY_PRIVATE = '67deddde99679fbdd6bee41de3e6b5fd'
 EMAIL_FROM = 'technic-alu-messages@paul-bonnet.cool'
-EMAIL_NAME = 'technic-alu.fr'
+EMAIL_NAME = 'presta-usi-72.fr'
 
-ALLOWED_HOSTS = ['presta-usi-72', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['presta-usi-72.paul-bonnet.cool', 'localhost', '127.0.0.1']
