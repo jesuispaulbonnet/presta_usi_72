@@ -51,8 +51,10 @@ nav ul > li > a {
     img {
         opacity: 0.6;
     }
-    h3, h5 {
+    .caption {
+        font-weight: 600 !important;
         text-shadow: 0px 0px 10px #000;
+        color: #fff !important;
     }
 }
 .simple-lightbox {
